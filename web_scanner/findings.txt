@@ -1,0 +1,35 @@
+WEB VULNERABILITY ASSESSMENT REPORT
+===================================
+
+Target:
+http://127.0.0.1:3000
+
+Assessment Type:
+Authorized Local Laboratory Testing
+
+Findings:
+
+1. HTTP Security Header Review
+Status: Completed
+
+2. Content Security Policy
+Status: Record actual result
+
+3. X-Frame-Options
+Status: Record actual result
+
+4. X-Content-Type-Options
+Status: Record actual result
+
+5. Strict-Transport-Security
+Status: Record actual result
+
+6. Referrer-Policy
+Status: Record actual result
+
+7. Website Availability
+Status: Tested
+
+Note:
+Results are based on testing performed against the
+authorized local laboratory target.

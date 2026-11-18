@@ -1,0 +1,16 @@
+============================================================
+   AUTOMATED WEB VULNERABILITY ASSESSMENT
+============================================================
+
+Target: http://127.0.0.1:3000
+Status Code: 200
+
+--- Security Headers ---
+[MISSING]  Content-Security-Policy
+[PASS]     X-Frame-Options
+[PASS]     X-Content-Type-Options
+[MISSING]  Strict-Transport-Security
+[MISSING]  Referrer-Policy
+
+--- Basic Web Checks ---
+[PASS] Website is responding

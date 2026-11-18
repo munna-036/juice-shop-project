@@ -1,0 +1,10 @@
+ Local Port Scanner
+target: 127.0.0.1
+
+[CLOSED] Port 22
+[CLOSED] Port 80
+[CLOSED] Port 443
+[OPEN] Port 3000
+[CLOSED] Port 8080
+
+scan completed

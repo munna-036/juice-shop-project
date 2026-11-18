@@ -1,0 +1,22 @@
+OWASP CATEGORY MAPPING
+======================
+
+1. Security Headers
+OWASP: A05 - Security Misconfiguration
+Status: Tested
+
+2. XSS
+OWASP: A03 - Injection
+Status: To be tested
+
+3. SQL Injection
+OWASP: A03 - Injection
+Status: To be tested
+
+4. CSRF
+OWASP: Cross-Site Request Forgery
+Status: To be tested
+
+5. Open Ports
+OWASP: A05 - Security Misconfiguration
+Status: Tested
