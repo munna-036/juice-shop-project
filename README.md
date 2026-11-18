@@ -1,3 +1,5 @@
+
+
 # Automated Cybersecurity Assessment and Monitoring System
 
 ## Project Overview
@@ -47,3 +49,6 @@ systems.
 The integrated system successfully generated security findings,
 stored alerts, displayed them on the dashboard, and generated
 an automated audit report.
+=======
+# juice-shop-project
+ 7bd5f679db5af9c1825b8c87d987c16a8d0cb210
